@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ishwar870.github.io/csb-fftotd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ishwar870.github.io/csb-fftotd/static/js/main.51a99c45.chunk.js",
+    "main.js.map": "https://ishwar870.github.io/csb-fftotd/static/js/main.51a99c45.chunk.js.map",
+    "runtime-main.js": "https://ishwar870.github.io/csb-fftotd/static/js/runtime-main.a8a72dd5.js",
+    "runtime-main.js.map": "https://ishwar870.github.io/csb-fftotd/static/js/runtime-main.a8a72dd5.js.map",
+    "static/js/2.e05d877c.chunk.js": "https://ishwar870.github.io/csb-fftotd/static/js/2.e05d877c.chunk.js",
+    "static/js/2.e05d877c.chunk.js.map": "https://ishwar870.github.io/csb-fftotd/static/js/2.e05d877c.chunk.js.map",
+    "index.html": "https://ishwar870.github.io/csb-fftotd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ishwar870.github.io/csb-fftotd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e05d877c.chunk.js.LICENSE.txt": "https://ishwar870.github.io/csb-fftotd/static/js/2.e05d877c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a72dd5.js",
+    "static/js/2.e05d877c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51a99c45.chunk.js"
+  ]
+}
